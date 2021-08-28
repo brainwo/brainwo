@@ -1,4 +1,4 @@
-Self note
+![](https://web.archive.org/web/20091027141220/http://www.geocities.com/felinicultura/cat.gif)
 
 Personal setup:
 - [libratbag/piper](https://github.com/libratbag/piper) Gaming mouse settings, AUR
