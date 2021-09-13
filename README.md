@@ -14,3 +14,6 @@ Japanese learning tool:
 - https://jisho.org/ EN-JP Dictionary
 - https://animelon.com/ Learn Japanese by streaming anime
 - https://kitsunekko.net/ Japanese shows subtitle directory
+
+Discord setup:
+- [eritislami/evobot](https://github.com/eritislami/evobot) Music player
