@@ -4,6 +4,7 @@ Personal bookmark
 Dekstop setup:
 - [libratbag/piper](https://github.com/libratbag/piper) Gaming mouse settings, AUR
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) Tiling Manager for Mac
+- [naelstrof/maim](https://github.com/naelstrof/maim) Screenshoter
 
 Data gathering:
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) Crypto prices
