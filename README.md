@@ -18,3 +18,8 @@ Japanese learning tool:
 
 Discord setup:
 - [eritislami/evobot](https://github.com/eritislami/evobot) Music player
+
+Brower extensions:
+- [autonome/vimkeybindings](https://github.com/autonome/vimkeybindings) Use h,j,k,l to scroll
+- [codebicycle/videospeed](https://github.com/codebicycle/videospeed) Go beyond 2x
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) ~~This video is sponsored by Raid Shadow Legends~~
