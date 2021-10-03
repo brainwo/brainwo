@@ -1,4 +1,5 @@
 Personal bookmark
+
 ![](https://web.archive.org/web/20091027141220/http://www.geocities.com/felinicultura/cat.gif)
 
 Dekstop setup:
@@ -20,6 +21,6 @@ Discord setup:
 - [eritislami/evobot](https://github.com/eritislami/evobot) Music player
 
 Brower extensions:
-- [autonome/vimkeybindings](https://github.com/autonome/vimkeybindings) Use h,j,k,l to scroll
+- [autonome/vimkeybindings](https://github.com/autonome/vimkeybindings) Use hjkl to scroll
 - [codebicycle/videospeed](https://github.com/codebicycle/videospeed) Go beyond 2x
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) ~~This video is sponsored by Raid Shadow Legends~~
