@@ -24,3 +24,5 @@ Brower extensions:
 - [autonome/vimkeybindings](https://github.com/autonome/vimkeybindings) Use hjkl to scroll
 - [codebicycle/videospeed](https://github.com/codebicycle/videospeed) Go beyond 2x
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) ~~This video is sponsored by Raid Shadow Legends~~
+- [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) Run custom script
+  - [y252328/Instagram_Download_Button](https://github.com/y252328/Instagram_Download_Button)
