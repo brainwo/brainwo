@@ -25,3 +25,4 @@ Brower extensions:
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) ~~This video is sponsored by Raid Shadow Legends~~
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) Run custom script
   - [y252328/Instagram_Download_Button](https://github.com/y252328/Instagram_Download_Button)
+- [lydell/LinkHints](https://github.com/lydell/LinkHints) Open links using keyboard
