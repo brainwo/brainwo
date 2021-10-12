@@ -26,6 +26,7 @@ Brower extensions:
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) Run custom script
   - [y252328/Instagram_Download_Button](https://github.com/y252328/Instagram_Download_Button)
 - [lydell/LinkHints](https://github.com/lydell/LinkHints) Open links using keyboard
+- [akuhuku/wasavi](https://github.com/akuhuku/wasavi) Vi editor for any web page
 
 Mobile apps:
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) Go beyond 2x
