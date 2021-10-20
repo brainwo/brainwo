@@ -30,3 +30,5 @@ Brower extensions:
 
 Mobile apps:
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) Go beyond 2x
+
+![](https://github.githubassets.com/images/mona-loading-dimmed.gif)
