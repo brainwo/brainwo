@@ -6,6 +6,7 @@ Dekstop setup:
 - [libratbag/piper](https://github.com/libratbag/piper) Gaming mouse settings, AUR
 - [naelstrof/maim](https://github.com/naelstrof/maim) Screenshoter
 - [JopStro/bspswallow](https://github.com/JopStro/bspswallow) Tip: use the xwinfo branch
+- [GRFreire/sxiv](https://github.com/GRFreire/sxiv) sxiv with configurable bar color, AUR
 
 Data gathering:
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) Crypto prices
