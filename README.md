@@ -7,6 +7,7 @@ Dekstop setup:
 - [naelstrof/maim](https://github.com/naelstrof/maim) Screenshoter
 - [JopStro/bspswallow](https://github.com/JopStro/bspswallow) Tip: use the xwinfo branch
 - [GRFreire/sxiv](https://github.com/GRFreire/sxiv) sxiv with configurable bar color, AUR
+- [Soft/xcolor](https://github.com/Soft/xcolor) Color picker without open some GUI ✨
 
 Data gathering:
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) Crypto prices
