@@ -3,10 +3,10 @@ Personal bookmark
 ![](https://web.archive.org/web/20091027141220/http://www.geocities.com/felinicultura/cat.gif)
 
 Dekstop setup:
-- [libratbag/piper](https://github.com/libratbag/piper) Gaming mouse settings, AUR
+- [libratbag/piper](https://github.com/libratbag/piper)<sup>AUR</sup> Gaming mouse settings
 - [naelstrof/maim](https://github.com/naelstrof/maim) Screenshoter
 - [JopStro/bspswallow](https://github.com/JopStro/bspswallow) Tip: use the xwinfo branch
-- [GRFreire/sxiv](https://github.com/GRFreire/sxiv) sxiv with configurable bar color, AUR
+- [GRFreire/sxiv](https://github.com/GRFreire/sxiv)<sup>AUR</sup> sxiv with configurable bar color
 - [Soft/xcolor](https://github.com/Soft/xcolor) Color picker without open some GUI ✨
 
 Data gathering:
