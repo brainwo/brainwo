@@ -8,6 +8,7 @@ Dekstop setup:
 - [JopStro/bspswallow](https://github.com/JopStro/bspswallow) Tip: use the xwinfo branch
 - [GRFreire/sxiv](https://github.com/GRFreire/sxiv)<sup>AUR</sup> sxiv with configurable bar color
 - [Soft/xcolor](https://github.com/Soft/xcolor) Color picker without open some GUI ✨
+- [tsoding/boomer](https://github.com/tsoding/boomer) Boomer zoomer application
 
 Data gathering:
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) Crypto prices
