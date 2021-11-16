@@ -10,6 +10,7 @@ Dekstop setup:
 - [Soft/xcolor](https://github.com/Soft/xcolor) Color picker without open some GUI ✨
 - [tsoding/boomer](https://github.com/tsoding/boomer)<sup>AUR</sup> Boomer zoomer application
 - [lolilolicon/xrectsel](https://github.com/lolilolicon)<sup>AUR</sup> Screen region selector
+- [jordins/pronounce](https://github.com/jordins/pronounce) CLI tool to pronounce word in multiple languages
 
 Data gathering:
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) Crypto prices
