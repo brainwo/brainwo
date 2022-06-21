@@ -2,3 +2,6 @@
 
 Quick links:
 - [Personal Bookmark](https://github.com/brainwo?tab=stars)
+
+Contact:
+Discord: Woo#7058
