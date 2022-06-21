@@ -4,4 +4,5 @@ Quick links:
 - [Personal Bookmark](https://github.com/brainwo?tab=stars)
 
 Contact:
-Discord: Woo#7058
+- Email: (currently have no email address set up)
+- Discord: Woo#7058
