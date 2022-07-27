@@ -9,3 +9,9 @@ Quick links:
 Contact:
 - Email: (currently have no email address set up)
 - Discord: Woo#7058
+
+Misc:
+- https://thebookofshaders.com/
+- https://www.desmos.com/calculator
+- https://gameprogrammingpatterns.com/contents.html
+- https://learnopengl.com/Introduction
