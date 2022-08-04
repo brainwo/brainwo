@@ -8,7 +8,7 @@ Quick links:
 
 Contact:
 - Email: (currently have no email address set up)
-- Discord: Woo#7058
+- Discord: `Woo#7058`
 
 Misc:
 - https://thebookofshaders.com/
