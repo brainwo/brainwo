@@ -8,9 +8,9 @@ Quick links:
 
 Contact:
 - Email: (currently have no email address set up)
-- Discord: `Woo#7058`
+- Discord: [join my server](https://discord.gg/QR63QRZntK)
 
-Misc:
+Misc (personal use):
 - https://thebookofshaders.com/
 - https://www.desmos.com/calculator
 - https://gameprogrammingpatterns.com/contents.html
