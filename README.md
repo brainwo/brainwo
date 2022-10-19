@@ -9,6 +9,7 @@ Quick links:
 Contact:
 - Email: (currently have no email address set up)
 - Discord: [join my server](https://discord.gg/QR63QRZntK)
+- Matrix: @brianwo:matrix.org
 
 Misc (personal use):
 - https://thebookofshaders.com/
