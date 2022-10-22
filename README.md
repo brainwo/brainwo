@@ -7,7 +7,7 @@ Quick links:
 - [Personal Bookmark](https://github.com/brainwo?tab=stars)
 
 Contact:
-- Email: (currently have no email address set up)
+- Email: (currently have no public email address)
 - Discord: [join my server](https://discord.gg/QR63QRZntK)
 - Matrix: @brianwo:matrix.org
 
