@@ -5,6 +5,7 @@
 Quick links:
 - [Itch.io](https://brianwo.itch.io/)
 - [Personal Bookmark](https://github.com/brainwo?tab=stars)
+- [Public Gists](https://github.com/brainwo/gist)
 
 Contact:
 - Email: (currently have no public email address)
