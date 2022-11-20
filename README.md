@@ -1,6 +1,6 @@
 ![](https://img.itch.zone/aW1nLzk0MTQ0NTIucG5n/original/fpRyRg.png)
 
-![](https://web.archive.org/web/20091027141220/http://www.geocities.com/felinicultura/cat.gif)
+![](./cat.gif)
 
 Quick links:
 - [Itch.io](https://brianwo.itch.io/)
@@ -12,7 +12,7 @@ Contact:
 - Discord: [join my server](https://discord.gg/QR63QRZntK)
 - Matrix: [@brianwo:matrix.org](https://matrix.to/#/@brianwo:matrix.org)
 
-Misc (personal use):
+Misc (personal use): ![](https://media.discordapp.net/attachments/603085590023634965/1038762631512723477/ezgif.com-gif-maker.gif)
 - https://thebookofshaders.com/
 - https://www.desmos.com/calculator
 - https://gameprogrammingpatterns.com/contents.html
