@@ -12,7 +12,7 @@ Contact:
 - Discord: [join my server](https://discord.gg/QR63QRZntK)
 - Matrix: [@brianwo:matrix.org](https://matrix.to/#/@brianwo:matrix.org)
 
-Misc (personal use): ![](https://media.discordapp.net/attachments/603085590023634965/1038762631512723477/ezgif.com-gif-maker.gif)
+Misc (personal use):
 - https://thebookofshaders.com/
 - https://www.desmos.com/calculator
 - https://gameprogrammingpatterns.com/contents.html
