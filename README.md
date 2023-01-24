@@ -9,7 +9,7 @@ Quick links:
 
 Contact:
 - Email: (currently have no public email address)
-- Discord: [join my server](https://discord.gg/QR63QRZntK)
+- Discord: [find me here](https://discord.gg/QR63QRZntK)
 - Matrix: [@brianwo:matrix.org](https://matrix.to/#/@brianwo:matrix.org)
 
 Misc (personal use):
