@@ -4,8 +4,6 @@
 
 Quick links:
 - [Itch.io](https://brianwo.itch.io/)
-- [Personal Bookmark](https://github.com/brainwo?tab=stars)
-- [Public Gists](https://github.com/brainwo/gist)
 
 Contact:
 - Discord: [find me here](https://discord.gg/QR63QRZntK) (personal server for GitHub projects and programming book discussion)
