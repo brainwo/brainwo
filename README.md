@@ -8,7 +8,6 @@ Quick links:
 - [Public Gists](https://github.com/brainwo/gist)
 
 Contact:
-- Email: (currently have no public email address)
 - Discord: [find me here](https://discord.gg/QR63QRZntK) (personal server for GitHub projects and programming book discussion)
 
 Misc (personal use):
