@@ -4,7 +4,7 @@
 
 Quick links:
 - [Itch.io](https://brianwo.itch.io/)
-- [RSS feed update](https://techhub.social/@brianwo)
+- [RSS feed update](https://techhub.social/@brianwo.rss)
 
 Contact:
 - Discord: [find me here](https://discord.gg/QR63QRZntK) (personal server for GitHub projects and programming book discussion)
