@@ -7,7 +7,7 @@ Quick links:
 - [RSS feed update](https://techhub.social/@brianwo.rss)
 
 Contact:
-- Discord: [find me here](https://discord.gg/QR63QRZntK) (personal server for GitHub projects and programming book discussion)
+- Discord: [personal Discord server](https://discord.gg/QR63QRZntK)
 
 Misc (personal use):
 - https://thebookofshaders.com/
