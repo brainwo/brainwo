@@ -14,3 +14,4 @@ Misc (personal use):
 - https://www.desmos.com/calculator
 - https://gameprogrammingpatterns.com/contents.html
 - https://learnopengl.com/Introduction
+- https://interactive.arm.com/story/the-arm-manga-guide-to-the-mali-gpu 
