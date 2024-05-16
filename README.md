@@ -10,7 +10,7 @@ Contact:
 - Discord: [personal Discord server](https://discord.gg/QR63QRZntK)
 
 Misc (personal use):
-- https://thebookofshaders.com/
+- https://thebookofshaders.com
 - https://www.desmos.com/calculator
 - https://gameprogrammingpatterns.com/contents.html
 - https://learnopengl.com/Introduction
