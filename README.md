@@ -7,7 +7,7 @@ Quick links:
 - [RSS feed update](https://techhub.social/@brianwo.rss)
 
 Contact:
-- Discord: [personal Discord server](https://discord.gg/QR63QRZntK)
+- Find me in my personal [Discord server](https://discord.gg/QR63QRZntK)
 - Prefer another way to reach me? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
 
 Misc (personal use):
