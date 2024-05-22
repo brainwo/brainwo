@@ -8,7 +8,7 @@ Quick links:
 
 Contact:
 - Discord: [personal Discord server](https://discord.gg/QR63QRZntK)
-- Prefer another way for contact? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
+- Prefer another way to reach me? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
 
 Misc (personal use):
 - https://thebookofshaders.com
