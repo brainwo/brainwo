@@ -10,9 +10,9 @@ Contact:
 - Find me in my personal [Discord server](https://discord.gg/QR63QRZntK)
 - Prefer another way to reach me? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
 
-Commit email:
+Commit info:
 ```
-45139213+brainwo@users.noreply.github.com
+Brian Wo <45139213+brainwo@users.noreply.github.com>
 ```
 
 Misc (personal use):
