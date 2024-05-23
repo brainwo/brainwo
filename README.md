@@ -10,6 +10,11 @@ Contact:
 - Find me in my personal [Discord server](https://discord.gg/QR63QRZntK)
 - Prefer another way to reach me? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
 
+Commit email:
+```
+45139213+brainwo@users.noreply.github.com
+```
+
 Misc (personal use):
 - https://thebookofshaders.com
 - https://www.desmos.com/calculator
