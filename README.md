@@ -15,7 +15,7 @@ Commit info:
 Brian Wo <45139213+brainwo@users.noreply.github.com>
 ```
 
-Misc (personal use):
+Personal bookmark:
 - https://thebookofshaders.com
 - https://www.desmos.com/calculator
 - https://gameprogrammingpatterns.com/contents.html
