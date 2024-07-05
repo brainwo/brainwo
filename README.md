@@ -3,11 +3,11 @@
 ![](./cat.gif)
 
 Quick links:
-- [Itch.io](https://brianwo.itch.io/)
-- [RSS feed update](https://techhub.social/@brianwo.rss)
+- Sometimes I make games for [Itch.io](https://brianwo.itch.io/)
+- There is [RSS feed](https://techhub.social/@brianwo.rss) for my Mastodon account for quick updates
 
 Contact:
-- Find me in my personal [Discord server](https://discord.gg/QR63QRZntK)
+- Find me in my personal [Discord server](https://discord.gg/QR63QRZntK) where I hang out and talk about anything
 - I don't promise to read your message in `@brianwo:matrix.org`, but just in case feel free to drop message
 - Prefer another way to reach me? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
 
