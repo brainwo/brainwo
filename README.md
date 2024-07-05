@@ -8,6 +8,7 @@ Quick links:
 
 Contact:
 - Find me in my personal [Discord server](https://discord.gg/QR63QRZntK)
+- I don't promise to read your message in `@brianwo:matrix.org`, but just in case feel free to drop message
 - Prefer another way to reach me? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
 
 Commit info:
