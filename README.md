@@ -4,10 +4,10 @@
 
 Quick links:
 - Sometimes I make games for [Itch.io](https://brianwo.itch.io/)
-- There is [RSS feed](https://techhub.social/@brianwo.rss) for my Mastodon account for quick updates
+- There is [RSS feed](https://techhub.social/@brianwo.rss) of my Mastodon account for quick updates
 
 Contact:
-- Find me in my personal [Discord server](https://discord.gg/QR63QRZntK) where I hang out and talk about anything
+- Find me in my personal [Discord server](https://discord.gg/QR63QRZntK) where I hang out and talk about anything (`brianwo` is not my Discord username)
 - I don't promise to read your message in `@brianwo:matrix.org`, but feel free to drop your messages there
 - Prefer another way to reach me? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
 
