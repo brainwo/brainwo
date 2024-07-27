@@ -7,19 +7,14 @@ Quick links:
 - There is [RSS feed](https://techhub.social/@brianwo.rss) of my Mastodon account for quick updates
 
 Contact:
-- Find me in my personal [Discord server](https://discord.gg/QR63QRZntK) where I hang out and talk about anything
+- Find me[^1] in my personal [Discord server](https://discord.gg/QR63QRZntK) where I hang out and talk about anything
 - I don't promise to read your message in `@brianwo:matrix.org`, but feel free to drop your messages there
 - Prefer another way to reach me? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
-- (Side note: `brianwo` is not my Discord username)
 
-Commit info:
+Commit info[^2]:
 ```
 Brian Wo <45139213+brainwo@users.noreply.github.com>
 ```
 
-Personal bookmark:
-- https://thebookofshaders.com
-- https://www.desmos.com/calculator
-- https://gameprogrammingpatterns.com/contents.html
-- https://learnopengl.com/Introduction
-- https://interactive.arm.com/story/the-arm-manga-guide-to-the-mali-gpu 
+[^1]: `brianwo` is not my Discord username, I don't share my Discord username.
+[^2]: To be used when referencing me in a commit. My commits are signed with my [verified signature](https://docs.github.com/assets/cb-17614/mw-1440/images/help/commits/verified-commit.webp).
