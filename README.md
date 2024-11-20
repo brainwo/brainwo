@@ -17,4 +17,4 @@ Brian Wo <45139213+brainwo@users.noreply.github.com>
 ```
 
 [^1]: `brianwo` is not my Discord username, I don't share my Discord username.
-[^2]: To be used when referencing me in a commit. My commits are signed with my [verified signature](https://docs.github.com/assets/cb-17614/mw-1440/images/help/commits/verified-commit.webp).
+[^2]: To be used when referencing my contribution in a commit. My commits are signed with my [verified signature](https://docs.github.com/assets/cb-17614/mw-1440/images/help/commits/verified-commit.webp).
