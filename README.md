@@ -7,7 +7,7 @@ Quick links:
 - There is [RSS feed](https://techhub.social/@brianwo.rss) of my Mastodon account for quick updates
 
 Contact:
-- Send me an email through this [Google Form](https://forms.gle/izWrmtUkqN92czHM7)
+- Send me a message through this [Google Form](https://forms.gle/izWrmtUkqN92czHM7) and I will reply you via email
 - Find me[^1] in my personal [Discord server](https://discord.gg/QR63QRZntK) where I hang out and talk about anything
 - Prefer another way to reach me? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
 
