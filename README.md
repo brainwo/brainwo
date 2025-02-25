@@ -2,19 +2,18 @@
 
 ![](./cat.gif)
 
-Quick links:
+#### Quick links:
 - Sometimes I make games for [Itch.io](https://brianwo.itch.io/)
-- There is [RSS feed](https://techhub.social/@brianwo.rss) of my Mastodon account for quick updates
+- I showcase my projects in [my Mastodon account](https://techhub.social/@brianwo/) which you can follow via [RSS feed](https://techhub.social/@brianwo.rss)
 
-Contact:
-- Send me a message through this [Google Form](https://forms.gle/izWrmtUkqN92czHM7) and I will reply you via email
-- Find me[^1] in my personal [Discord server](https://discord.gg/QR63QRZntK) where I hang out and talk about anything
-- Prefer another way to reach me? Leave a message in [GitHub Discussion](https://github.com/brainwo/brainwo/discussions)
+#### Contact:
+- Send a message to ![](https://github.com/user-attachments/assets/49812fac-7b78-4344-bc68-77aa91888409) (please do not spam)
+- I'm in my [Discord server](https://discord.gg/QR63QRZntK) if you prefer Discord
+- Not checking messages sent elsewhere
 
-Commit info[^2]:
+#### Commit info:
 ```
 Brian Wo <45139213+brainwo@users.noreply.github.com>
 ```
+Use it when referencing my contribution in a commit. My commits are signed with my [verified signature](https://docs.github.com/assets/cb-17614/mw-1440/images/help/commits/verified-commit.webp).
 
-[^1]: `brianwo` is not my Discord username, I don't share my Discord username.
-[^2]: To be used when referencing my contribution in a commit. My commits are signed with my [verified signature](https://docs.github.com/assets/cb-17614/mw-1440/images/help/commits/verified-commit.webp).
